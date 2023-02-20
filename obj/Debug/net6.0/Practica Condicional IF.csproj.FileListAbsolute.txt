@@ -1,0 +1,15 @@
+C:\Users\vazqu\source\repos\Practica Condicional IF\bin\Debug\net6.0\Practica Condicional IF.exe
+C:\Users\vazqu\source\repos\Practica Condicional IF\bin\Debug\net6.0\Practica Condicional IF.deps.json
+C:\Users\vazqu\source\repos\Practica Condicional IF\bin\Debug\net6.0\Practica Condicional IF.runtimeconfig.json
+C:\Users\vazqu\source\repos\Practica Condicional IF\bin\Debug\net6.0\Practica Condicional IF.dll
+C:\Users\vazqu\source\repos\Practica Condicional IF\bin\Debug\net6.0\Practica Condicional IF.pdb
+C:\Users\vazqu\source\repos\Practica Condicional IF\obj\Debug\net6.0\Practica Condicional IF.csproj.AssemblyReference.cache
+C:\Users\vazqu\source\repos\Practica Condicional IF\obj\Debug\net6.0\Practica Condicional IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vazqu\source\repos\Practica Condicional IF\obj\Debug\net6.0\Practica Condicional IF.AssemblyInfoInputs.cache
+C:\Users\vazqu\source\repos\Practica Condicional IF\obj\Debug\net6.0\Practica Condicional IF.AssemblyInfo.cs
+C:\Users\vazqu\source\repos\Practica Condicional IF\obj\Debug\net6.0\Practica Condicional IF.csproj.CoreCompileInputs.cache
+C:\Users\vazqu\source\repos\Practica Condicional IF\obj\Debug\net6.0\Practica Condicional IF.dll
+C:\Users\vazqu\source\repos\Practica Condicional IF\obj\Debug\net6.0\refint\Practica Condicional IF.dll
+C:\Users\vazqu\source\repos\Practica Condicional IF\obj\Debug\net6.0\Practica Condicional IF.pdb
+C:\Users\vazqu\source\repos\Practica Condicional IF\obj\Debug\net6.0\Practica Condicional IF.genruntimeconfig.cache
+C:\Users\vazqu\source\repos\Practica Condicional IF\obj\Debug\net6.0\ref\Practica Condicional IF.dll
